@@ -1,0 +1,24 @@
+LEVEL 3 TASK 1 - CLASSIFICATION RESULTS
+==================================================
+
+Logistic Regression
+Accuracy: 0.8590704647676162
+Precision: 0.5106382978723404
+Recall: 0.25263157894736843
+F1 Score: 0.3380281690140845
+
+Decision Tree
+Accuracy: 0.9220389805097451
+Precision: 0.7171717171717171
+Recall: 0.7473684210526316
+F1 Score: 0.7319587628865979
+
+Random Forest
+Accuracy: 0.9445277361319341
+Precision: 0.9833333333333333
+Recall: 0.6210526315789474
+F1 Score: 0.7612903225806451
+
+Best Parameters:
+{'max_depth': None, 'n_estimators': 100}
+Best Cross-validation Score: 0.9388557455151043

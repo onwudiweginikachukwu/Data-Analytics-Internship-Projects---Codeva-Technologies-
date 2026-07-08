@@ -1,0 +1,4 @@
+LEVEL 2 TASK 1 - LINEAR REGRESSION RESULTS
+=========================================
+Mean Squared Error: 2.643850081593318
+R2 Score: 0.9997449719375414
