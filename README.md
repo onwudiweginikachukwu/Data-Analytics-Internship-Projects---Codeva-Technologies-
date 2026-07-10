@@ -371,6 +371,12 @@ These projects were completed as part of the *Data Analytics Internship at Codve
 
 Thank you for taking the time to explore this repository. Feedback and suggestions are always welcome.
 
+## 🎥 Project Presentation
+
+Watch my internship project presentation on LinkedIn:                [HERE](https://www.linkedin.com/posts/onwudiwe-ginikachukwu-7426a233a_dataanalytics-codveda-codvedatech-ugcPost-7481334965503434752-kDoF/?utm_source=share&utm_medium=member_android&rcm=ACoAAFUs46IBX8E7v5-CHgVz_R8ywn_-0gfYS3k)
+
+
+
 ## 📬 Connect With Me
 
 If you'd like to connect or view more of my work, feel free to reach out.
